@@ -1,5 +1,5 @@
 import 'package:demo/first_screen.dart';
-import 'package:demo/second_screen.dart';
+import 'package:demo/home_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -12,8 +12,8 @@ class DemoHome extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(routes: {
-      '/A': (context) => const FirstScreen(),
-      '/B': (context) => const SecondScreen(),
-    }, debugShowCheckedModeBanner: false, home: const FirstScreen());
+      '/home': (context) => const HomePage(),
+      '/first': (context) => const FirstPage(),
+    }, debugShowCheckedModeBanner: false, home: const FirstPage());
   }
 }
