@@ -8,11 +8,9 @@ class FirstPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Colors.teal[100],
-      appBar: AppBar(
-        title: const Text("I am.. First"),
-        backgroundColor: Colors.teal[300],
+      body: const Center(
+        child: Text('First'),
       ),
-      drawer: const MyDrawer(),
     );
   }
 }
