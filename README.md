@@ -1,16 +1,7 @@
-# demo
+# todoapp
 
-A new Flutter project.
+Простое приложения для записи заметок.
 
-## Getting Started
+![Screenshot_1](https://github.com/bruhmoment654/todoapp/assets/99661323/1c0d482a-9f67-432c-bb65-ced1c22eead1) ![Screenshot_2](https://github.com/bruhmoment654/todoapp/assets/99661323/bcb21e03-80ec-45ff-b817-a712882a1dd2) ![Screenshot_3](https://github.com/bruhmoment654/todoapp/assets/99661323/fb97aea6-2493-463a-a05e-ab14f82edd34)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
